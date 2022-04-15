@@ -1,3 +1,4 @@
 domain: chabbymark.github.io
 url: https://chabbymark.github.io
 baseurl: /docs/
+theme: architect
